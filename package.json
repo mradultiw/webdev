@@ -1,0 +1,22 @@
+{
+  "name": "exercise",
+  "version": "1.0.0",
+  "description": "This is a test directory for learning node",
+  "main": "indx.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/mradultiw/webdev.git"
+  },
+  "author": "Mradul Tiwari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mradultiw/webdev/issues"
+  },
+  "homepage": "https://github.com/mradultiw/webdev#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
